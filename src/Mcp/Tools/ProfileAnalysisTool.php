@@ -3,7 +3,7 @@
 namespace Codemonkey\SPXMcpServer\Mcp\Tools;
 
 use Codemonkey\SPXMcpServer\Mcp\SPX\ProfileParser;
-use Illuminate\JsonSchema\JsonSchema;
+use Illuminate\Contracts\JsonSchema\JsonSchema;
 use JsonException;
 use Laravel\Mcp\Response;
 use Laravel\Mcp\Server\Tool;

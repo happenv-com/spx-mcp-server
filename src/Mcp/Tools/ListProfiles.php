@@ -2,7 +2,7 @@
 
 namespace Codemonkey\SPXMcpServer\Mcp\Tools;
 
-use Illuminate\JsonSchema\JsonSchema;
+use Illuminate\Contracts\JsonSchema\JsonSchema;
 use Illuminate\Support\Collection;
 use JsonException;
 use Laravel\Mcp\Request;

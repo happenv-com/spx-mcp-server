@@ -1,5 +1,5 @@
 {
-    "name": "happenv/spx-mcp-server",
+    "name": "happenv-com/spx-mcp-server",
     "description": "An MCP server for the PHP SPX profiler",
     "type": "library",
     "license": "MIT",

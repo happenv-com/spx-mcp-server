@@ -1,5 +1,5 @@
 {
-    "name": "codemonkey/spx-mcp-server",
+    "name": "happenv/spx-mcp-server",
     "description": "An MCP server for the PHP SPX profiler",
     "type": "library",
     "license": "MIT",
@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": "^8.1",
-        "laravel/mcp": "^0.5.0",
+        "laravel/mcp": "^0.5.0||^0.6.0||^0.7.0||^0.8.0",
         "ext-zlib": "*"
     },
     "config": {
